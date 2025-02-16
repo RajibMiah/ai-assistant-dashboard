@@ -9,7 +9,7 @@ import {
   renderTrack,
   renderView,
 } from 'components/scrollbar/Scrollbar';
-import { Scrollbars } from 'react-custom-scrollbars-2';
+import { Scrollbars } from 'react-custom-scrollbars';
 import avatar4 from '/public/img/avatars/avatar4.png';
 import routes from 'routes';
 import Card from 'components/card';
